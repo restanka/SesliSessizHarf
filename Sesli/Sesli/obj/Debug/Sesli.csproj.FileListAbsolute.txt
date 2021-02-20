@@ -1,0 +1,10 @@
+C:\Users\resta\source\repos\Sesli\Sesli\bin\Debug\Sesli.exe.config
+C:\Users\resta\source\repos\Sesli\Sesli\bin\Debug\Sesli.exe
+C:\Users\resta\source\repos\Sesli\Sesli\bin\Debug\Sesli.pdb
+C:\Users\resta\source\repos\Sesli\Sesli\obj\Debug\Sesli.csprojAssemblyReference.cache
+C:\Users\resta\source\repos\Sesli\Sesli\obj\Debug\Sesli.Form1.resources
+C:\Users\resta\source\repos\Sesli\Sesli\obj\Debug\Sesli.Properties.Resources.resources
+C:\Users\resta\source\repos\Sesli\Sesli\obj\Debug\Sesli.csproj.GenerateResource.cache
+C:\Users\resta\source\repos\Sesli\Sesli\obj\Debug\Sesli.csproj.CoreCompileInputs.cache
+C:\Users\resta\source\repos\Sesli\Sesli\obj\Debug\Sesli.exe
+C:\Users\resta\source\repos\Sesli\Sesli\obj\Debug\Sesli.pdb
